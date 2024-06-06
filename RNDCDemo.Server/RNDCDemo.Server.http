@@ -1,0 +1,6 @@
+@RNDCDemo.Server_HostAddress = http://localhost:5122
+
+GET {{RNDCDemo.Server_HostAddress}}/Product/
+Accept: application/json
+
+###
